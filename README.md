@@ -10,4 +10,5 @@ Test8
 
 Release change 1
 Release change 2
+Release change 3
 
